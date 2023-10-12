@@ -1,4 +1,4 @@
-module example.com/hello
+module github.com/labring/Sealos
 
 go 1.21.1
 
